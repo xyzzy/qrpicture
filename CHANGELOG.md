@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## 1.0.0 2020-08-13 21:01:10
+
 ```
-2020-08-12 10:53:55.17 Initial commit.
+2020-08-12 10:53:55 Initial commit.
+2020-08-13 21:01:10 Reconstructed most of the functionality from backups.
 ```
+
+[Unreleased]: https://github.com/xyzzy/qrpicture/compare/v1.0.0...HEAD

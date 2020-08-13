@@ -42,7 +42,7 @@ Create database and load tables
 
 ```
 	mysql < qrpicture.sql
-	edit update config.php
+	edit config.php
 ```
 
 Install site
@@ -58,3 +58,8 @@ Using [SemVer](http://semver.org/) for versioning. For the versions available, s
 # License
 
 This project is licensed under the GNU AFFERO General Public License v3 - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* Derrick Coetzee and his amazing work on Spatial Colour Quantinazion.
+* Masahiro Hara and his work on setting the QR code standard.
