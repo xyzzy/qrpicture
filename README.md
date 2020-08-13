@@ -41,8 +41,7 @@ Create database and load tables
 
 ```
 	mysql < qrpicture.sql
-
-	< update config.php >
+	edit update config.php
 ```
 
 Install site
