@@ -43,6 +43,7 @@ Create database and load tables
 ```
 	mysql < qrpicture.sql
 	edit config.php
+	make "image" directory writable for http server
 ```
 
 Install site

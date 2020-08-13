@@ -412,7 +412,7 @@ input.vcardCol2  {
 				<div id="info"></div>
 				<div id="result"></div>
 				<div id="divReGenerate" style="display:none">
-                <span display=""hidden">
+                <span display="hidden">
     				<p>If QR does not scan, then <button type="button" id="qrReGenerateButton"  onclick="clip.onReGenerate(event)">Re-Generate</button> with more (<span id="regenlevel"></span>) safer settings</p>
                 </span>
 				</div>

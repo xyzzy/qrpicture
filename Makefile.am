@@ -46,7 +46,7 @@ qrscq_LDFLAGS = -lgd
 
 install-data-hook:
 	install -d $(prefix) $(prefix)/assets
-	install -d -m 775 $(prefix)/images $(prefix)/images.incoming
+	install -d -m 775 $(prefix)/images
 	cd $(top_srcdir); install $(SITEFILES) $(prefix)
 	cd $(top_srcdir); install $(SITEFILES_ASSETS) $(prefix)/assets
 	cd $(top_srcdir); install $(SITEFILES_IMAGES) $(prefix)/images
