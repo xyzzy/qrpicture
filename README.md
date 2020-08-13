@@ -40,10 +40,10 @@ Build qrcode/qrscq
 Create database and load tables
 
 ```
-	mysql &lt; qrpicture.sql
+	mysql < qrpicture.sql
 
-	&lt;update config.php&gt;
-``
+	< update config.php >
+```
 
 Install site
 
