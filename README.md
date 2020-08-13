@@ -6,6 +6,7 @@ Features:
 *   186x186 pixel colour information.
 *   Colours are chosen from a high-contrast QR-safe palette.
 *   Dithering introduces blurring which reduces sharp constrast edges.
+*   Repository hosted on [www.qrpicture.com](https://www.qrpicture.com).
     
 Creating photo QR's is a two-part process.
 
