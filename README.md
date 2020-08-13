@@ -1,11 +1,11 @@
 Welcome to the world of photo realistic QR's.
 
 Features:
-    * 93x93 pixel QR code capable of holding 100 characters.
-    * The size also makes the scanning responsive and fast.
-    * 186x186 pixel colour information.
-    * Colours are chosen from a high-contrast QR-safe palette.
-    * Dithering introduces blurring which reduces sharp constrast edges.
+*   93x93 pixel QR code capable of holding 100 characters.
+*   The size also makes the scanning responsive and fast.
+*   186x186 pixel colour information.
+*   Colours are chosen from a high-contrast QR-safe palette.
+*   Dithering introduces blurring which reduces sharp constrast edges.
     
 Creating photo QR's is a two-part process.
 
