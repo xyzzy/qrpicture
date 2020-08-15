@@ -39,10 +39,10 @@ SITEFILES_IMAGES = \
 bin_PROGRAMS = qrwork qrscq
 
 qrwork_SOURCES = qrwork.cc
-qrwork_LDFLAGS = -lgd
+qrwork_LDADD = -lgd
 
 qrscq_SOURCES = qrscq.cc
-qrscq_LDFLAGS = -lgd
+qrscq_LDADD = -lgd
 
 install-data-hook:
 	install -d $(prefix) $(prefix)/assets
