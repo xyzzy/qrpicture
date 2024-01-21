@@ -1,0 +1,31 @@
+title: "qrpicture"
+author: "xyzzy@RockingShip.org"
+url: https://xyzzy.github.io # root address of the site
+description: "Picture to colour QR code converter, hosted on https://QRpicture.com"
+favicon: assets/favicon-32.png
+favicon152: assets/favicon-152.png
+favicon192: assets/favicon-192.png
+
+# jekyll settings
+remote_theme: RockingShip/moonwalk
+
+# moonwalk
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  back_home_text: "&#x2343; home" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  date_format_post: "%d %B %Y" # customize how date is formatted for blog post headers
+  show_title: false # show title in home page
+  show_description: false # show blog description in home page
+  show_navbar: true # show horizontal navbar in home page
+  show_footer: true # show footer links in home page,add in _data/home.yml
+  show_projects: false # show projects as cards, add in _data/home.yml
+  show_blog: false # show blog add in _posts
+  show_old_projects: false # show old projects as cards, add in _data/home.yml
+  show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
